@@ -6,10 +6,9 @@ The data was processed using SQL and visualized in **Tableau Public** to uncover
 ---
 
 ## 🔎 Key Insights  
-- **Sales Trends** – track order volumes and revenue over time  
-- **Category Performance** – identify top-selling product categories  
-- **Customer Segmentation** – analyze behavior across different customer types  
-- **Delivery Analysis** – measure delays, distance, and reasons for late deliveries  
+- **Sales Trends** – track order volumes and revenue over time
+- **KPI** - Aov,Busket Size,Return%
+- **Category Performance** – identify top-selling product categories
 - **Customer Feedback** – explore ratings, feedback categories, and sentiment  
 
 ---
@@ -19,18 +18,10 @@ The data was processed using SQL and visualized in **Tableau Public** to uncover
 
 ---
 
-## 🖼️ Preview  
+## Dashboard Snipet
 ![Dashboard Screenshot](dashboard-image/dashboard.png)  
 
-*(Add a screenshot of your dashboard in the `images/` folder with the name `dashboard.png` so it appears here.)*  
 
----
-
-## 🚀 Next Steps  
-- Add profitability KPIs (margins vs sales)  
-- Build interactive filters for deeper drilldowns  
-- Expand dashboards for customer retention and cohort analysis  
-- Automate SQL → Tableau integration with live data  
 
 ---
 
